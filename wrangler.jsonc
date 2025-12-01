@@ -1,0 +1,8 @@
+{
+  "name": "tk-relay",
+  "main": "worker.js",
+  "compatibility_date": "2025-01-01",
+  "vars": {
+    "RELAY_KEY": "$tkautokey0001$"
+  }
+}
